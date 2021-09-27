@@ -82,7 +82,7 @@
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>My Nexus Repository</name>
-			<url>http://192.168.56.40:8081/repository/devops-snapshot/</url>
+			<url>http://172.16.16.102:8081/repository/test-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	
